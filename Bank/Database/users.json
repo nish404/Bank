@@ -1,0 +1,37 @@
+[
+  {
+    "id": "adad3958-4f91-40eb-9ed3-4cc88508296f",
+    "UserName": "venom",
+    "FirstName": "Eddie",
+    "LastName": "Brock",
+    "Password": "password"
+  },
+  {
+    "id": "0ca8ab48-1a78-4b90-83cf-bc23f99324bf",
+    "UserName": "deadpool",
+    "FirstName": "Wade",
+    "LastName": "Wilson",
+    "Password": "password"
+  },
+  {
+    "id": "a23ef817-246f-4cb9-b66f-db6d80f45b73",
+    "UserName": "elektra",
+    "FirstName": "Elektra",
+    "LastName": "Natchios",
+    "Password": "password"
+  },
+  {
+    "id": "7b41972b-91e1-4cf7-948b-79eecd208b68",
+    "UserName": "blackwidow",
+    "FirstName": "Natasha",
+    "LastName": "Romanoff",
+    "Password": "password"
+  },
+  {
+    "id": "7f80b282-fd91-4f36-b990-717c6ac10118",
+    "UserName": "weaponx",
+    "FirstName": "Logan",
+    "LastName": "X",
+    "Password": "password"
+  }
+]
